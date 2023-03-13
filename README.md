@@ -40,7 +40,7 @@ UML Class Diagram -
 
 
 
-UML Use-Case Diagram -
+UML Use Case Diagram -
 
 ![UML use case diagram example](https://user-images.githubusercontent.com/108218688/209279211-b185d809-c47f-4d19-95a0-52735ba29d9c.png)
 
