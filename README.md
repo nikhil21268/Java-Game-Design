@@ -4,7 +4,7 @@ Created Tanks Stars Game from scratch using LibGDX, Java, & Figma.
 
 
 ## Deployment
-* Run Tank Stars/desktop/src/com/mygdx/game/DesktopLauncher.java in IntellijIdea or any other IDE of your choice.
+* Run TankStars/desktop/src/com/mygdx/game/DesktopLauncher.java in IntellijIdea or any other IDE of your choice.
 
 
 
